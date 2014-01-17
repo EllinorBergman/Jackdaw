@@ -1,5 +1,6 @@
-Jackdaw-base
 
+---------------------
+Jackdaw-base
 ---------------------
 
 A webbtemplate / boilerplate for smaller websites and webbapplications using PHP.
@@ -7,14 +8,12 @@ A webbtemplate / boilerplate for smaller websites and webbapplications using PHP
 Built by Ellinor Bergman
 
 
+---------------------
 License
-
 --------------------
  
 This software is free software and carries a MIT license.
  
- 
-------------------
 
 
  .
