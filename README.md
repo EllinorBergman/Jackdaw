@@ -6,13 +6,17 @@ A webbtemplate / boilerplate for smaller websites and webbapplications using PHP
 
 Built by Ellinor Bergman
 
-License 
-------------------
+
+License
+
+--------------------
  
 This software is free software and carries a MIT license.
  
  
 ------------------
+
+
  .
 ..:
  
